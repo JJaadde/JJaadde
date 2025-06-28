@@ -5,7 +5,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,dart,flutter,vscode,figma,wordpress,firebase,mysql" />
-    <img src="https://skillicons.dev/icons?i=arch,kali" />
+    <img src="https://skillicons.dev/icons?i=" />
   
 </div>
 
